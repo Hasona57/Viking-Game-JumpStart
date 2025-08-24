@@ -18,7 +18,7 @@ A 2D adventure game where a Viking searches for his passion by exploring the for
 Our Viking hero is searching for his passion by exploring dangerous forests, collecting coins, and battling the undead. But after surviving zombies and traps, he eventually falls into a trap that he cannot escape.  
 
 To be continued in the next level.
-
+play now on itch.io : https://hasona-57.itch.io/the-viking-war
 ## Built With
 - Engine: Godot  
 - Platform: HTML5 (Playable in browser)
